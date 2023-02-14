@@ -6,12 +6,12 @@
 ### 4.- Haz una rama llamada parte1
 ### 5.- Trabaja ahora con esa rama
 
-#### a.- Haz un script que se llame atotal.sh, que calcule el total de consumo de una ciudad que le pase por parámetro. Si la ciudad no existe el script se vuelve a ejecutar hasta que introduzca una ciudad correcta (1 punto)
+#### a.- Haz un script que se llame atotal.sh, que calcule el total de consumo de una ciudad que introduzca el usuario. Si la ciudad no existe el script se vuelve a ejecutar hasta que introduzca una ciudad correcta (1 punto)
 
 ### 6.- Integra el trabajo que has realizado en la rama en master
 ### 7.- Sube a GitHub (0.5 puntos)
 ### 8.- Modifica el readme en GitHub directamente poniendo tu fecha de nacimiento. NO hagas nada más
-### 9.- En tu repositorio local, añade tu grupo/cantante favorito (directamente en master). NO hagas nada más
+### 9.- En tu repositorio local, en el readme añade tu grupo/cantante favorito (directamente en master). NO hagas nada más
 ### 10.- Haz lo necesario para disponer de lo mismo tanto en local como en GitHub. HAZ UNA CAPTURA QUE JUSTIFIQUE EL CONFLICTO (1 punto)
 
 #### b.- Vuelve a la rama parte1. Haz un script que se llame bminymax.sh, que me devuelva la ciudad, el mes y el año de consumo máximo y mínimo. Comitea, integra en master y sube a GitHub (1 punto)
