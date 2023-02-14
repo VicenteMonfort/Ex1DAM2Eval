@@ -1,4 +1,4 @@
-# Simulacro Examen S.I. 1DAM 2ª Evaluación
+# Examen S.I. 1DAM 2ª Evaluación
 
 ### 1.- Haz un repositorio local que se llame 'NombreEnGitExamen2Aval'
 ### 2.- Haz un readme con tu nombre y apellidos
